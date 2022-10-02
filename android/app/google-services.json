@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705718863339",
+    "project_id": "nest-care-3043a",
+    "storage_bucket": "nest-care-3043a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705718863339:android:22f2e846f288e8890005ae",
+        "android_client_info": {
+          "package_name": "com.example.nest_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705718863339-ur1gruu7mn22kqu4ej5mg1115ofpc54p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaHppwIsdMkpV1vaCMVer9nwQpiLCxxHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705718863339-ur1gruu7mn22kqu4ej5mg1115ofpc54p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
