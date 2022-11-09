@@ -15,10 +15,12 @@ dependencies:
     sdk: flutter # Required for every Flutter project
   simple_animations: ^1.3.3
   cupertino_icons: ^1.0.2 # Only required if you use Cupertino (iOS style) icons
+  cloud_firestore: ^3.5.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter # Required for a Flutter project that includes tests
+  flutter_lints: ^2.0.0
 
 flutter:
 

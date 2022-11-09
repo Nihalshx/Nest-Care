@@ -1,4 +1,9 @@
+//ignore_for_file: prefer_const_constructors,depend_on_referenced_packages
 import 'package:flutter/material.dart';
+import 'login_page.dart';
+import 'signup_Page.dart';
+import 'ForgotPassword.dart';
+import 'ResetPassword.dart';
 import 'package:firebase_core/firebase_core.dart';
 
 Future main() async{
